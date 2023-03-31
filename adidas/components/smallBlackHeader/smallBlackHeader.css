@@ -1,0 +1,16 @@
+.smallBlackHeader {
+    display: flex;
+    height: 40px;
+    color: #ffffff;
+    background-color: black;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    justify-content: center;
+    align-items: center;
+}
+.smallBlackHeader-text {
+    color: white;
+    font-size: medium;
+    font-weight: 300;
+}
