@@ -18,3 +18,35 @@
     list-style-type: none;
     align-items: center;
 }
+.logo-links-search {
+    height: 90px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    height: 100%;
+    width: 140px
+}
+.logo > img {
+    height: 100%;
+    width: 100%;
+}
+.header-links {
+    display: flex;
+    height: 100%;
+    width: 700px;
+    border: 1px solid red;
+    /* align-content: flex-end; */
+}
+.search {
+    display: flex;
+    height: 100%;
+    width: 400px;
+    border: 1px solid violet;
+}
+.hyper-links{
+    font-size: 15px;
+}
